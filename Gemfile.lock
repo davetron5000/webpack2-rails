@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    webpack-rails (0.9.9)
+    webpack2-rails (2.2.1)
       railties (>= 3.2.0)
 
 GEM
@@ -145,7 +145,7 @@ DEPENDENCIES
   rspec
   rubocop
   webmock
-  webpack-rails!
+  webpack2-rails!
 
 BUNDLED WITH
-   1.11.2
+   1.13.6

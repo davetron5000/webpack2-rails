@@ -1,6 +1,6 @@
 module Webpack
   # :nodoc:
   module Rails
-    VERSION = "0.9.9"
+    VERSION = "2.2.1" # matching the version of webpack
   end
 end
